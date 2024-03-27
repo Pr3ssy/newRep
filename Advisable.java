@@ -1,0 +1,3 @@
+interface Advisable {
+    void giveAdvice();
+}
